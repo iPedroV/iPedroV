@@ -12,15 +12,16 @@
 
 </div>
   
-  ##
+  ## <h3 align=center>Social Medias </h3>
  
-<div align=center> 
-  <a href="https://www.youtube.com/channel/UCdT59nfQphalL3fQ2beLiBQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/pedro.viiitor" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.twitch.tv/l_mystogan_l" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
- <a href="https://github.com/iPedroV" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:pedro.vcosta405@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/pedro-vitor-934122161" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<div align=center >
+  <a href="https://api.whatsapp.com/send?phone=5561984941352&text=Olá%20Pedro!%20Vim%20através%20do%20seu%20perfil%20do%20GitHub%20e%20gostaria%20de%20falar%20com%20você." target="_blank"><img width=5% src="https://cdn-icons.flaticon.com/png/512/2504/premium/2504957.png?token=exp=1650243548~hmac=b22e260be5293787f52679d8d19742b6" target="_blank"></a>
+  <a href="https://www.youtube.com/channel/UCdT59nfQphalL3fQ2beLiBQ" target="_blank"><img src="https://cdn-icons.flaticon.com/png/512/3938/premium/3938026.png?token=exp=1650243302~hmac=336cac979e494be030fc1076df866021" width=5% target="_blank"></a>
+  <a href="https://instagram.com/pedro.viiitor" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width=5% target="_blank"></a>
+ 	<a href="https://www.twitch.tv/l_mystogan_l" target="_blank"><img src="https://cdn-icons.flaticon.com/png/512/3291/premium/3291659.png?token=exp=1650243213~hmac=ee21802d5fc0d15f8a750dc889c7c65f" width=5% target="_blank"></a>
+ <a href="https://github.com/iPedroV" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111370.png" width=5% target="_blank"></a> 
+  <a href = "mailto:pedro.vcosta405@gmail.com"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" width=5% target="_blank"></a>
+  <a href="https://www.linkedin.com/in/pedro-vitor-934122161" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width=5% target="_blank"></a> 
  
   ![Snake animation](https://github.com/iPedroV/iPedroV/blob/output/github-contribution-grid-snake.svg)
  
